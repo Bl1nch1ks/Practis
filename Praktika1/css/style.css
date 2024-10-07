@@ -1,0 +1,17 @@
+.montserat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+#sect1 {
+  background-image: url(../img/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+}
+
+#sect1 h1 {
+  font-size: 60px;
+}
